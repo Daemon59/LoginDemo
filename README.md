@@ -7,4 +7,4 @@ To create a new username and password, enter the values in the provided input fi
 user data is stored securely in `localStorage`.
 
 ##link
-https://daemon59.github.io/BMI-CALCULATOR/
+https://daemon59.github.io/LoginDemo/
